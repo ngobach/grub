@@ -1752,6 +1752,12 @@ module = {
   enable = i386_pc;
 };
 
+module = {
+  name = duetldr;
+  i386_pc = loader/i386/pc/duetldr.c;
+  enable = i386_pc;
+};
+
 
 module = {
   name = truecrypt;

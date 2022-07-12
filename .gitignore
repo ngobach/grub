@@ -118,6 +118,7 @@ widthspec.bin
 /gnulib/
 /grub-2.[0-9]*/
 /grub-2.[0-9]*.tar.gz
+/grub-2.[0-9]*-for-windows.zip
 /grub-bios-setup
 /grub-bios-setup.exe
 /grub-core/*.module
